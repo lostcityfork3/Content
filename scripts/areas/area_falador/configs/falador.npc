@@ -107,7 +107,7 @@ category=shop_keeper
 param=owned_shop,generalshop4
 param=shop_sell_multiplier,1300
 param=shop_buy_multiplier,400
-param=shop_delta,30
+param=shop_delta,5
 param=shop_title,Falador General Store
 moverestrict=indoors
 
@@ -142,7 +142,7 @@ category=shop_keeper
 param=owned_shop,generalshop4
 param=shop_sell_multiplier,1300
 param=shop_buy_multiplier,400
-param=shop_delta,30
+param=shop_delta,5
 param=shop_title,Falador General Store
 moverestrict=indoors
 

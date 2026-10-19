@@ -5,6 +5,7 @@
 [if_button,magic:ardougne_teleport] @magic_teleport(^ardougne_teleport);
 [if_button,magic:watchtower_teleport] @magic_teleport(^watchtower_teleport);
 [if_button,magic:trollheim_teleport] @magic_teleport(^trollheim_teleport);
+[if_button,magic:edgeville_teleport] @magic_teleport(^edgeville_teleport);
 
 [label,magic_teleport](int $spell)
 if_close;

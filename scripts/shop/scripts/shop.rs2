@@ -183,7 +183,7 @@ if($shop_inv = %shop) {
 [proc,calc_shop_value](int $base_cost, int $shophaggle, int $shopbuy, int $int3)(int)
 def_int $int4 = 0;
 def_int $int5 = min(1000, max(-5000, calc($int3 * $shophaggle)));
-$int5 = max(100, calc($shopbuy - $int5));
+$int5 = max(250, calc($shopbuy - $int5));
 $int4 = scale($int5, 1000, $base_cost);
 if ($int4 < 0) {
     $int4 = 2000000000;

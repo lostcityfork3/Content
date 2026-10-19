@@ -55,6 +55,7 @@
 ^ardougne_teleport = 49
 ^lumbridge_teleport = 50
 ^trollheim_teleport = 52
+^edgeville_teleport = 53
 
 // npc spells
 ^skeleton_mage_attack = 100

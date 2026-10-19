@@ -86,6 +86,15 @@ data=runesrequired,waterrune,1,airrune,3,lawrune,1
 data=experience,480
 data=tele_coord,0_46_52_21_50
 
+[magic_spell_teleport_edgeville]
+table=magic_spell_table
+data=spell,^edgeville_teleport
+data=members,true
+data=levelrequired,42
+data=runesrequired,bloodrune,1,soulrune,1,lawrune,1
+data=experience,500
+data=tele_coord,0_48_54_21_14
+
 [magic_spell_teleport_camelot]
 table=magic_spell_table
 data=spell,^camelot_teleport
